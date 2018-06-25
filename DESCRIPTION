@@ -1,0 +1,21 @@
+Package: littletrees
+Type: Package
+Title: Little's Atlas of United States Trees
+Version: 0.1.0
+Author: William K. Petry [aut, cre] (<https://orcid.org/0000-0002-5230-5987>>)
+Maintainer: William K. Petry <william.petry@usys.ethz.ch>
+Description: Provides range maps for 679 tree (sub)species from the United
+    States of America as simple features, cloned from the United States
+    Geological Survey's "Digital Representations of Tree Species Range Maps
+    from 'Atlas of United States Trees' by Elbert L. Little, Jr. (and other
+    publications)."
+URL: https://github.com/wpetry/littletrees
+BugReports: https://github.com/wpetry/littletrees/issues
+License: Creative Commons Zero (CC0, public domain)
+Depends: R (>= 3.3.0)
+Imports: sf (>= 0.6-3)
+Suggests: rgdal, rgeos, spatstat, dplyr (>= 0.7-0), tidyr (>= 0.7-2),
+    tibble (>= 1.4.1), ggplot2 (>= 2.2.1.900)
+RoxygenNote: 6.0.1
+Encoding: UTF-8
+LazyData: true
