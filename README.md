@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# littletrees <img src="man/figures/logo.png" align="right" />
+# littletrees <img src="man/figures/logo.png" align="right" width="195px" />
 
 [![Build
 Status](https://travis-ci.org/wpetry/littletrees.svg?branch=master)](https://travis-ci.org/wpetry/littletrees)

@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# littletrees <img src="man/figures/logo.png" align="right" />
+# littletrees <img src="man/figures/logo.png" align="right" width="195px" />
 
 [![Build Status](https://travis-ci.org/wpetry/littletrees.svg?branch=master)](https://travis-ci.org/wpetry/littletrees)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/wpetry/littletrees?branch=master&svg=true)](https://ci.appveyor.com/project/wpetry/littletrees)
